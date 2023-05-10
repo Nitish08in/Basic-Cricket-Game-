@@ -1,1 +1,2 @@
 # Basic-Cricket-Game-
+The program simulates a cricket game with 5 overs (30 balls) and random scores between 0 and 6 for each ball. It keeps track of the runs, wickets, and balls, and ends the game when either all 10 wickets are taken or all 30 balls are bowled. The final score is displayed at the end of the game. The program does not include any user input for batting or bowling, and the scoring rules are very simple.
